@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Zov
   This is my passion game! It is a Fantasy/Singleplayer inspired by Skyrim and Avowed. It will contain Magic, Combat, Archery, Crafting, Co-op, and other things that will come to mind.
 
@@ -29,7 +28,3 @@
 
 # Conclusion
 This is what I have so far. I wish I can spend more time on this but I am currently taking 6 classes at PVAMU and an additional 2 gaming courses at Lone Star College. I will try publish my dream game one day and I hope you can follow its journey to become a full fledged game.
-=======
-# The Land of Zov
-  This is my passion game! It is a Fantasy/Singleplayer inspired by Skyrim and Avowed.
->>>>>>> b1850203e5347ae5ec53f8959b70370c2e5cf6b8
